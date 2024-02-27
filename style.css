@@ -1,0 +1,19 @@
+h1{
+
+ font-family: "Libre Baskerville" ; 
+ color: azure; 
+ font-weight: 700;
+ font-style: normal;
+ text-align: center;
+}
+
+img{
+
+    border: solid black;
+    display: block;
+    margin: auto;
+    padding-top: 250px;
+}
+body{
+    background-color: black;
+}
