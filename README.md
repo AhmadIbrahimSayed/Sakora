@@ -1,4 +1,4 @@
-# Sakora
+# Bottle
 
 An initial responsive landing page concept for a smart-bottle marketing project.
 
